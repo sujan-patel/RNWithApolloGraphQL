@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_RNWithApolloGraphQL_RNWithApolloGraphQLTests : NSObject
+@end
+@implementation PodsDummy_Pods_RNWithApolloGraphQL_RNWithApolloGraphQLTests
+@end

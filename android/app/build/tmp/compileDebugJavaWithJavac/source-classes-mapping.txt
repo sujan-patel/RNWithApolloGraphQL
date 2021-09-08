@@ -1,0 +1,14 @@
+com/rnwithapollographql/MainActivity.java
+ com.rnwithapollographql.MainActivity
+com/rnwithapollographql/MainApplication.java
+ com.rnwithapollographql.MainApplication
+ com.rnwithapollographql.MainApplication$1
+com/rnwithapollographql/ReactNativeFlipper.java
+ com.rnwithapollographql.ReactNativeFlipper
+ com.rnwithapollographql.ReactNativeFlipper$1
+ com.rnwithapollographql.ReactNativeFlipper$2
+ com.rnwithapollographql.ReactNativeFlipper$2$1
+com/rnwithapollographql/BuildConfig.java
+ com.rnwithapollographql.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

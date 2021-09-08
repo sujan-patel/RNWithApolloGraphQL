@@ -1,0 +1,6 @@
+module Pods_RNWithApolloGraphQL {
+  umbrella header "Pods-RNWithApolloGraphQL-umbrella.h"
+
+  export *
+  module * { export * }
+}
