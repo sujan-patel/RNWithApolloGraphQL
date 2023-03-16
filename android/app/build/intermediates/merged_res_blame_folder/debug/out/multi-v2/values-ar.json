@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sujanpatel/Documents/Office/POC/RNWithApolloGraphQL/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
+            "outputFile": "/Users/sujanpatel/Documents/Office/Projects/RNWithApolloGraphQL/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
             "map": [
                 {
                     "source": "/Users/sujanpatel/.gradle/caches/transforms-3/2b33f08a78071dc79c67b5b0c82c3366/transformed/appcompat-1.1.0/res/values-ar/values-ar.xml",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/sujanpatel/.gradle/caches/transforms-3/384a804ddf61add8f1298a3b8f500b71/transformed/core-1.1.0/res/values-ar/values-ar.xml",
+                    "source": "/Users/sujanpatel/.gradle/caches/transforms-3/bc5a2c077d02ae2f0a381bcd1ba891ed/transformed/core-1.5.0/res/values-ar/values-ar.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

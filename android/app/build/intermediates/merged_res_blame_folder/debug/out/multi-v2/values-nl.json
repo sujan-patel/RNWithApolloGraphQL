@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sujanpatel/Documents/Office/POC/RNWithApolloGraphQL/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
+            "outputFile": "/Users/sujanpatel/Documents/Office/Projects/RNWithApolloGraphQL/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
             "map": [
                 {
-                    "source": "/Users/sujanpatel/.gradle/caches/transforms-3/384a804ddf61add8f1298a3b8f500b71/transformed/core-1.1.0/res/values-nl/values-nl.xml",
+                    "source": "/Users/sujanpatel/.gradle/caches/transforms-3/bc5a2c077d02ae2f0a381bcd1ba891ed/transformed/core-1.5.0/res/values-nl/values-nl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

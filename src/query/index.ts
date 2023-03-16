@@ -1,1 +1,2 @@
-export { default as GET_CHAPTERS } from './getChapter.query';
+export { AllFilms } from './AllFilms.query';
+export { SingleFilm } from './SingleFilm.query';

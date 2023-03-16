@@ -1,23 +1,23 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sujanpatel/Documents/Office/POC/RNWithApolloGraphQL/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "/Users/sujanpatel/Documents/Office/Projects/RNWithApolloGraphQL/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
-                    "source": "/Users/sujanpatel/.gradle/caches/transforms-3/384a804ddf61add8f1298a3b8f500b71/transformed/core-1.1.0/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/Users/sujanpatel/.gradle/caches/transforms-3/bc5a2c077d02ae2f0a381bcd1ba891ed/transformed/core-1.5.0/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "202",
-                        "endOffsets": "253"
+                        "endColumns": "203",
+                        "endOffsets": "254"
                     },
                     "to": {
                         "startLines": "30",
                         "startColumns": "4",
                         "startOffsets": "5682",
-                        "endColumns": "202",
-                        "endOffsets": "5880"
+                        "endColumns": "203",
+                        "endOffsets": "5881"
                     }
                 },
                 {
