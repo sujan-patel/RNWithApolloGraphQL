@@ -8,7 +8,7 @@ export const Header = () => {
   return (
     <View style={styles.header}>
       <Icon name={'fencing'} size={35} />
-      <Text style={styles.headerTitle}>Start Wars</Text>
+      <Text style={styles.headerTitle}>Star Wars</Text>
       <Icon name={'fencing'} size={35} />
     </View>
   );
